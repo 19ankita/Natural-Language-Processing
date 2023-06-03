@@ -1,3 +1,5 @@
+Preprocessed the data suitable for BERT model. Utilized pretrained BERT model and assessed the model performances.
+
 Project Outline:
 Task 1: Introduction (this section)
 
